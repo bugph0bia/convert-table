@@ -84,3 +84,10 @@ $ cat output.txt
 | ggg | hhh | iii |
 +-----+-----+-----+
 ```
+
+### MS Excel(tsv) to ascii
+
+![](./README/paste_from_excel.gif)
+
+Note:  
+This is an example using Windows Terminal. If Command Prompt is used, tab characters cannot be pasted.  
